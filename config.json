@@ -1,0 +1,7 @@
+{
+  "shodan_api_key": "YOUR_SHODAN_KEY",
+  "maxmind_db_path": "/path/to/GeoLite2-City.mmdb",
+  "ipapi_api_key": "YOUR_IPAPI_KEY",
+  "ipstack_api_key": "YOUR_IPSTACK_KEY",
+  "virustotal_api_key": "YOUR_VIRUSTOTAL_KEY"
+}
