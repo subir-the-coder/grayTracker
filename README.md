@@ -3,9 +3,6 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd10bf25-9669-45a8-be4b-9cf47f50a2b3" />
 
 
-
-# 🛰️ Gray Tracing System (`grayTracker.py`)
-
 **Gray Tracing System** is a Python-based IP Intelligence & Reconnaissance toolkit that provides powerful insights into network data, geolocation, open ports, and domain information — all beautifully formatted in an interactive CLI.
 
 Developed by **Subir Sutradhar (2025)**, this tool is designed for ethical security researchers, penetration testers, and network analysts who need detailed IP data quickly and visually.
@@ -137,7 +134,7 @@ grayTracker/
 
 **Subir Sutradhar**
 💻 Python Developer | Cybersecurity Enthusiast
-📧 [subir-the-coder@outlook.com](mailto:subir-the-coder@outlook.com)
+📧 [subir-the-coder@outlook.com](mailto:subirthecoer35@gmail.com)
 🌐 [https://github.com/subir-the-coder](https://github.com/subir-the-coder)
 
 ---
