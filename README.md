@@ -1,6 +1,7 @@
 # Gray Tracing System — `grayTracker.py`
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33a899f5-289e-4de4-b389-a9de4a40d6a4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd10bf25-9669-45a8-be4b-9cf47f50a2b3" />
+
 
 
 **Gray Tracing System** is an interactive IP intelligence & reconnaissance tool written in Python.  
