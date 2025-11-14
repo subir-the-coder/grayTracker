@@ -5,7 +5,7 @@
 
 **Gray Tracing System** is a Python-based IP Intelligence & Reconnaissance toolkit that provides powerful insights into network data, geolocation, open ports, and domain information — all beautifully formatted in an interactive CLI.
 
-Developed by **Subir Sutradhar (2025)**, this tool is designed for ethical security researchers, penetration testers, and network analysts who need detailed IP data quickly and visually.
+This tool is designed for ethical security researchers, penetration testers, and network analysts who need detailed IP data quickly and visually.
 
 ---
 
